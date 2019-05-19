@@ -12,7 +12,7 @@ namespace FisrtApp
         {
             Console.WriteLine("Fadi");
             Console.WriteLine("Fadi");
-
+            Console.ReadLine();
             Console.Read();
         }
     }
