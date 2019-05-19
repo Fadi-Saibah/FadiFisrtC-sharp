@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FisrtApp", "FisrtApp\FisrtApp.csproj", "{37A69A35-E565-4A8A-A243-EE350A8C9BE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37A69A35-E565-4A8A-A243-EE350A8C9BE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A69A35-E565-4A8A-A243-EE350A8C9BE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A69A35-E565-4A8A-A243-EE350A8C9BE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A69A35-E565-4A8A-A243-EE350A8C9BE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4EC80A4-C248-4B6E-BE53-812371A9AE1F}
+	EndGlobalSection
+EndGlobal
