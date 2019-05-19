@@ -11,6 +11,8 @@ namespace FisrtApp
         static void Main(string[] args)
         {
             Console.WriteLine("Fadi");
+            Console.WriteLine("Fadi");
+
             Console.Read();
         }
     }
