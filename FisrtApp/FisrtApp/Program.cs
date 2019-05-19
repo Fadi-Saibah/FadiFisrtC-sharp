@@ -10,7 +10,7 @@ namespace FisrtApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("FADI");
+            Console.WriteLine("Faris");
         }
     }
 }
