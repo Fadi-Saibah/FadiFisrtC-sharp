@@ -148,33 +148,79 @@ namespace FisrtApp
             //Console.WriteLine("==============");
 
 
-            char x1 = '\u0046';
-            char x2 = '\u0061';
-            char x3 = '\u0064';
-            char x4 = '\u0069';
+            //char x1 = '\u0046';
+            //char x2 = '\u0061';
+            //char x3 = '\u0064';
+            //char x4 = '\u0069';
 
-            Console.Write(x1);
-            Console.Write(x2);
-            Console.Write(x3);
-            Console.Write(x4);
-
-
-            string str1 = "Fadi";
-            string str2 = " ";
-            string str3 = "sy";
-
-            string strall = str1 + str2 + str3;
-
-            Console.WriteLine(strall);
+            //Console.Write(x1);
+            //Console.Write(x2);
+            //Console.Write(x3);
+            //Console.Write(x4);
 
 
-            string strName = "Fadi";
-            int num1 = 16;
-            char N = '\u0079';
+            //string str1 = "Fadi";
+            //string str2 = " ";
+            //string str3 = "sy";
 
-            string strali = strName + " " + num1 + " " + N;
+            //string strall = str1 + str2 + str3;
 
-            Console.WriteLine(strali);
+            //Console.WriteLine(strall);
+
+
+            //string strName = "Fadi";
+            //int num1 = 16;
+            //char N = '\u0079';
+
+            //string strali = strName + " " + num1 + " " + N;
+
+            //Console.WriteLine(strali);
+
+            //int num1 = 100;
+            //int num2 = 50;
+            //int num3 = 100;
+            //int f = num1 + num2 + num3;
+
+            //Console.WriteLine(f);
+
+            //int num1 = 10;
+            //int num2 = 4;
+            //int r = num1 - num2;
+
+            //Console.WriteLine(r);
+
+            //int num1 = 5;
+            //int num2 = 10;
+            //int f = num1 * num2;
+
+            //Console.WriteLine(f);
+
+            //int num1 = 10;
+            //int num2 = 2;
+            //int f = num1 / num2;
+
+            //Console.WriteLine(f);
+
+            //int num1 = 5;
+            //int num2 = 2;
+            //int f = num1 % num2;
+
+            //Console.WriteLine(f);
+
+            //double num1 = 12.3;
+            //double num2 = 7.2;
+            //double f = num1 % num2;
+
+            //Console.WriteLine(f);
+
+            double num1 = 10;
+            double num2 = 4;
+
+            Console.WriteLine(num1 + num2);
+            Console.WriteLine(num1 - num2);
+            Console.WriteLine(num1 * num2);
+            Console.WriteLine(num1 / num2);
+            Console.WriteLine(num1 % num2);
 
 
 
