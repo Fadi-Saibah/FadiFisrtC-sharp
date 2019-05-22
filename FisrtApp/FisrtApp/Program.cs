@@ -213,14 +213,47 @@ namespace FisrtApp
 
             //Console.WriteLine(f);
 
-            double num1 = 10;
-            double num2 = 4;
 
-            Console.WriteLine(num1 + num2);
-            Console.WriteLine(num1 - num2);
-            Console.WriteLine(num1 * num2);
-            Console.WriteLine(num1 / num2);
-            Console.WriteLine(num1 % num2);
+
+            //double num1 = 10;
+            //double num2 = 4;
+
+            //Console.WriteLine(num1 + num2);
+            //Console.WriteLine(num1 - num2);
+            //Console.WriteLine(num1 * num2);
+            //Console.WriteLine(num1 / num2);
+            //Console.WriteLine(num1 % num2);
+
+
+
+            int num;
+            num = 10;
+            num += 5;
+            num -= 2;
+            num *= 3;
+            num /= 2;
+            num %= 4;
+
+            Console.WriteLine(num);
+
+
+            string str = " ";
+            str += "Welcome";
+            str += " " + "Fadi";
+            Console.WriteLine(str);
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
