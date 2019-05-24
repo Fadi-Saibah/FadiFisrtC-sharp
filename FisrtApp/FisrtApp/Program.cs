@@ -226,25 +226,35 @@ namespace FisrtApp
 
 
 
-            int num;
-            num = 10;
-            num += 5;
-            num -= 2;
-            num *= 3;
-            num /= 2;
-            num %= 4;
+            //int num;
+            //num = 10;
+            //num += 5;
+            //num -= 2;
+            //num *= 3;
+            //num /= 2;
+            //num %= 4;
 
-            Console.WriteLine(num);
+            //Console.WriteLine(num);
 
 
-            string str = " ";
-            str += "Welcome";
-            str += " " + "Fadi";
+            //string str = " ";
+            //str += "Welcome";
+            //str += " " + "Fadi";
+            //Console.WriteLine(str);
+
+            string num1 = "498.22";
+            int num2 = 2;
+            double r;
+            // int r = int.Parse(num1) + num2 ;
+            //int r = Convert.ToInt32(num1) + num2;
+            r = double.Parse(num1) + num2;
+
+            Console.WriteLine(r);
+
+            int num = 122;
+            string str;
+            str = Convert.ToString(num);
             Console.WriteLine(str);
-
-
-
-
 
 
 
