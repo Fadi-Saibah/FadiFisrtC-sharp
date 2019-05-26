@@ -242,20 +242,33 @@ namespace FisrtApp
             //str += " " + "Fadi";
             //Console.WriteLine(str);
 
-            string num1 = "498.22";
-            int num2 = 2;
-            double r;
-            // int r = int.Parse(num1) + num2 ;
-            //int r = Convert.ToInt32(num1) + num2;
-            r = double.Parse(num1) + num2;
+            //string num1 = "498.22";
+            //int num2 = 2;
+            //double r;
+            //// int r = int.Parse(num1) + num2 ;
+            ////int r = Convert.ToInt32(num1) + num2;
+            //r = double.Parse(num1) + num2;
 
-            Console.WriteLine(r);
+            //Console.WriteLine(r);
 
-            int num = 122;
-            string str;
-            str = Convert.ToString(num);
+            //int num = 122;
+            //string str;
+            //str = Convert.ToString(num);
+            //Console.WriteLine(str);
+
+            double db1 = 12.11;
+            int num1;
+            num1 = Convert.ToInt32(db1);
+            Console.WriteLine(num1);
+
+            double db2 = 22;
+            int num2;
+            num2 = (int)db2;
+            Console.WriteLine(num2);
+
+            object op1 = "hello";
+            string  str= (string)op1;
             Console.WriteLine(str);
-
 
 
 
