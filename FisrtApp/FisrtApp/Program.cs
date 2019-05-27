@@ -256,30 +256,101 @@ namespace FisrtApp
             //str = Convert.ToString(num);
             //Console.WriteLine(str);
 
-            double db1 = 12.11;
-            int num1;
-            num1 = Convert.ToInt32(db1);
-            Console.WriteLine(num1);
+            //double db1 = 12.11;
+            //int num1;
+            //num1 = Convert.ToInt32(db1);
+            //Console.WriteLine(num1);
 
-            double db2 = 22;
-            int num2;
-            num2 = (int)db2;
-            Console.WriteLine(num2);
+            //double db2 = 22;
+            //int num2;
+            //num2 = (int)db2;
+            //Console.WriteLine(num2);
 
-            object op1 = "hello";
-            string  str= (string)op1;
-            Console.WriteLine(str);
+            //object op1 = "hello";
+            //string  str= (string)op1;
+            //Console.WriteLine(str);
+
+            //object ops2 = "Fadi";
+            //string str2 = (string)ops2;
+            //Console.WriteLine(str2);
+
+            //string str = "12";
+            //int num1 = 8;
+            //double r;
+            //r = Convert.ToInt32(str) + num1;
+
+            //Console.WriteLine(r);
+
+            //int num1 = 3;
+            //string str = "7";
+            //float r;
+            //r = Convert.ToInt32(str) + num1;
+            //Console.WriteLine(r);
+
+            //int num = 2;
+            //num += 3;
+            //num -= 1;
+            //num *= 3;
+            //num /= 2;
+            //num %= 3;
+            //Console.WriteLine(num);
+
+            //int num1 = 3;
+            //int num2 = 3;
+            //int num3 = 5;
+            //int num4 = 2;
 
 
+            //int r;
+            //r = num1 + num2 + num3 + num4;
+            //Console.WriteLine(r);
+
+            //string str1 = "hello" + " " + "Fadi" + " " + "good" + " " + "mornig";
+
+            //Console.WriteLine(str1);
+
+            //double dp1 = 12.5;
+            //int num1;
+            //num1 = (int)dp1;
+            //Console.WriteLine(num1);
+
+            //object ops = "Hi";
+            //string str;
+            //str = (string)ops;
+            //Console.WriteLine(str);
+
+            //Console.WriteLine((char)100);
+            //Console.WriteLine((int)'F');
+            //Console.WriteLine((int)'a');
+            //Console.WriteLine((int)'i');
+
+            Console.Write((char)70);
+            Console.Write((char)97);
+            Console.Write((char)100);
+            Console.WriteLine((char)105);
+
+            Console.WriteLine((int)'F');
+            Console.WriteLine((int)'a');
+            Console.WriteLine((int)'d');
+            Console.WriteLine((int)'i');
+
+            Console.WriteLine(" =============");
+            Console.WriteLine(" =============");
+
+            int e = 5;
+            e++;
+            ++e;
+            e--;
+            --e;
 
 
+            Console.WriteLine(e);
 
-
-
-
-
-
-
+            int x = 10;
+            // int y = x++;
+            int y = ++x;
+            Console.WriteLine("y = " +  y);
+            Console.WriteLine("x = " +    x);
 
 
 
