@@ -324,33 +324,79 @@ namespace FisrtApp
             //Console.WriteLine((int)'a');
             //Console.WriteLine((int)'i');
 
-            Console.Write((char)70);
-            Console.Write((char)97);
-            Console.Write((char)100);
-            Console.WriteLine((char)105);
+            //Console.Write((char)70);
+            //Console.Write((char)97);
+            //Console.Write((char)100);
+            //Console.WriteLine((char)105);
 
-            Console.WriteLine((int)'F');
-            Console.WriteLine((int)'a');
-            Console.WriteLine((int)'d');
-            Console.WriteLine((int)'i');
+            //Console.WriteLine((int)'F');
+            //Console.WriteLine((int)'a');
+            //Console.WriteLine((int)'d');
+            //Console.WriteLine((int)'i');
 
-            Console.WriteLine(" =============");
-            Console.WriteLine(" =============");
+            //Console.WriteLine(" =============");
+            //Console.WriteLine(" =============");
 
-            int e = 5;
-            e++;
-            ++e;
-            e--;
-            --e;
+            //int e = 5;
+            //e++;
+            //++e;
+            //e--;
+            //--e;
 
 
-            Console.WriteLine(e);
+            //Console.WriteLine(e);
 
-            int x = 10;
-            // int y = x++;
-            int y = ++x;
-            Console.WriteLine("y = " +  y);
-            Console.WriteLine("x = " +    x);
+            //int x = 10;
+            //// int y = x++;
+            //int y = ++x;
+            //Console.WriteLine("y = " +  y);
+            //Console.WriteLine("x = " +    x);
+
+            //int x = 5;
+            ////int y = x++;
+            //int y = ++x;
+            //Console.WriteLine(x);
+            //Console.WriteLine(y);
+
+            //Console.WriteLine((char)90);
+            //Console.WriteLine((char)76);
+
+            //Console.WriteLine((int)'Z');
+            //Console.WriteLine((int)'L');
+            Console.WriteLine("And");
+            bool and1 = true && true;
+            bool and2 = true && false;
+            bool and3 = false && true;
+            bool and4 = false && false;
+            Console.WriteLine(and1);
+            Console.WriteLine(and2);
+            Console.WriteLine(and3);
+            Console.WriteLine(and4);
+            Console.WriteLine("===============");
+
+            Console.WriteLine("Or");
+            bool or1 = true || true;
+            bool or2 = true || false;
+            bool or3 = false || true;
+            bool or4 = false || false;
+            Console.WriteLine(or1);
+            Console.WriteLine(or2);
+            Console.WriteLine(or3);
+            Console.WriteLine(or4);
+            Console.WriteLine("===============");
+
+            Console.WriteLine("Not");
+            bool not1 = !true;
+            bool not2 = !false;
+            Console.WriteLine(not1);
+            Console.WriteLine(not2);
+              
+                
+
+
+        
+            
+            
 
 
 
