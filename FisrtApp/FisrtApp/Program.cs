@@ -363,41 +363,82 @@ namespace FisrtApp
 
             //Console.WriteLine((int)'Z');
             //Console.WriteLine((int)'L');
-            Console.WriteLine("And");
-            bool and1 = true && true;
-            bool and2 = true && false;
-            bool and3 = false && true;
-            bool and4 = false && false;
-            Console.WriteLine(and1);
-            Console.WriteLine(and2);
-            Console.WriteLine(and3);
-            Console.WriteLine(and4);
-            Console.WriteLine("===============");
+            //Console.WriteLine("And");
+            //bool and1 = true && true;
+            //bool and2 = true && false;
+            //bool and3 = false && true;
+            //bool and4 = false && false;
+            //Console.WriteLine(and1);
+            //Console.WriteLine(and2);
+            //Console.WriteLine(and3);
+            //Console.WriteLine(and4);
+            //Console.WriteLine("===============");
 
-            Console.WriteLine("Or");
-            bool or1 = true || true;
-            bool or2 = true || false;
-            bool or3 = false || true;
-            bool or4 = false || false;
-            Console.WriteLine(or1);
-            Console.WriteLine(or2);
-            Console.WriteLine(or3);
-            Console.WriteLine(or4);
-            Console.WriteLine("===============");
+            //Console.WriteLine("Or");
+            //bool or1 = true || true;
+            //bool or2 = true || false;
+            //bool or3 = false || true;
+            //bool or4 = false || false;
+            //Console.WriteLine(or1);
+            //Console.WriteLine(or2);
+            //Console.WriteLine(or3);
+            //Console.WriteLine(or4);
+            //Console.WriteLine("===============");
 
-            Console.WriteLine("Not");
-            bool not1 = !true;
-            bool not2 = !false;
-            Console.WriteLine(not1);
-            Console.WriteLine(not2);
-              
-                
+            //Console.WriteLine("Not");
+            //bool not1 = !true;
+            //bool not2 = !false;
+            //Console.WriteLine(not1);
+            //Console.WriteLine(not2);
 
+            int nume1 = 10;
+            int nume2 = 15;
+            bool b;
+            // b = num1 == num2;
+            // b = num1 > num2;
+            // b = num1 >= num2;
+            // b = num1 < num2;
+            // b = num1 <= num2;
+            b = nume1 != nume2;
 
-        
+            Console.WriteLine(b);
+
+            int nu1 = 15;
+            int nu2 = 10;
+            bool e;
+            //b = num1 == num2;
+            //b = num1 > num2;
+            //b = num1 >= num2;
+            //b = num1 < num2;
+            //b = num1 <= num2;
+            e = nu1 != nu2;
+
+            Console.WriteLine(e);
+
+            Console.WriteLine("Write any words");
+            string str1 = Console.ReadLine();
+            Console.WriteLine("input is " + str1);
+
+            Console.WriteLine("Enter your name:");
+            string str = Console.ReadLine();
+            Console.WriteLine("Welcome:" + str);
+
+            Console.WriteLine("Enter num1");
+            string num1 = Console.ReadLine();
+            Console.WriteLine("Enter num2 ");
+            string num2 = Console.ReadLine();
+            int N1 = Convert.ToInt32(num1);
+            int N2 = Convert.ToInt32(num2);
+            int r = N1 + N2;
+            Console.WriteLine("=" +" " + r);
+
             
+
+
+
             
 
+            
 
 
 
