@@ -391,54 +391,178 @@ namespace FisrtApp
             //Console.WriteLine(not1);
             //Console.WriteLine(not2);
 
-            int nume1 = 10;
-            int nume2 = 15;
-            bool b;
-            // b = num1 == num2;
-            // b = num1 > num2;
-            // b = num1 >= num2;
-            // b = num1 < num2;
-            // b = num1 <= num2;
-            b = nume1 != nume2;
+            //int nume1 = 10;
+            //int nume2 = 15;
+            //bool b;
+            //// b = num1 == num2;
+            //// b = num1 > num2;
+            //// b = num1 >= num2;
+            //// b = num1 < num2;
+            //// b = num1 <= num2;
+            //b = nume1 != nume2;
 
-            Console.WriteLine(b);
+            //Console.WriteLine(b);
 
-            int nu1 = 15;
-            int nu2 = 10;
-            bool e;
-            //b = num1 == num2;
-            //b = num1 > num2;
-            //b = num1 >= num2;
-            //b = num1 < num2;
-            //b = num1 <= num2;
-            e = nu1 != nu2;
+            //int nu1 = 15;
+            //int nu2 = 10;
+            //bool e;
+            //////b = num1 == num2;
+            ////b = num1 > num2;
+            ////b = num1 >= num2;
+            ////b = num1 < num2;
+            ////b = num1 <= num2;
+            //e = nu1 != nu2;
 
-            Console.WriteLine(e);
+            //Console.WriteLine(e);
 
-            Console.WriteLine("Write any words");
-            string str1 = Console.ReadLine();
-            Console.WriteLine("input is " + str1);
+            //Console.WriteLine("Write any words");
+            //string str1 = Console.ReadLine();
+            //Console.WriteLine("input is " + str1);
 
-            Console.WriteLine("Enter your name:");
-            string str = Console.ReadLine();
-            Console.WriteLine("Welcome:" + str);
+            //Console.WriteLine("Enter your name:");
+            //string str = Console.ReadLine();
+            //Console.WriteLine("Welcome:" + str);
 
-            Console.WriteLine("Enter num1");
-            string num1 = Console.ReadLine();
-            Console.WriteLine("Enter num2 ");
-            string num2 = Console.ReadLine();
-            int N1 = Convert.ToInt32(num1);
-            int N2 = Convert.ToInt32(num2);
-            int r = N1 + N2;
-            Console.WriteLine("=" +" " + r);
+            //Console.WriteLine("Enter num1");
+            //string num1 = Console.ReadLine();
+            //Console.WriteLine("Enter num2");
+            //string num2 = Console.ReadLine();
+            //int N1 = Convert.ToInt32(num1);
+            //int N2 = Convert.ToInt32(num2);
+            //int r = N1 + N2;
+            //Console.WriteLine("=" + " " + r);
 
-            
+            //int x = 10;
+            //int y = 5;
+            //if (x > y) ;
+            //{
+            //    Console.WriteLine("Hello");
+            //}
 
+            //Console.WriteLine("Enter strY/n");
+            //string strYN = Console.ReadLine();
+            //if (strYN == "y")
+            //{
+            //    Console.WriteLine("Welcome");
+            //}
 
+            //==============================================
+            //Console.WriteLine("Enter number1");
+            //string strnum1 = Console.ReadLine();
+            //Console.WriteLine("Enter number2");
+            //string strnum2 = Console.ReadLine();
 
-            
+            //int num1 = Convert.ToInt32(strnum1);
+            //int num2 = Convert.ToInt32(strnum2);
+            //int r = 0;
 
-            
+            //    if (num1 >= num2)
+            //{
+            //    r = num1 - num2;
+            //    Console.WriteLine(r);
+
+            //============================================
+
+            //}
+            //Console.WriteLine("Enter number1");
+            //int num1 =Convert.ToInt32 (Console.ReadLine());
+            //Console.WriteLine("Enter number2");
+            //int num2 = Convert.ToInt32(Console.ReadLine());
+
+            //if (num1 > num2)
+            //{
+            //    Console.WriteLine("number1 > number2");
+            //}
+
+            //if (num1 < num2)
+            //{
+            //    Console.WriteLine("number1 < number2");
+            //}
+
+            //if (num1 == num2)
+            //{
+            //    Console.WriteLine("number1 = number2");
+            //}
+
+            //==================================================
+
+            //Console.WriteLine("Enter number1");
+            //int num1 = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Enter number2");
+            //int num2 = Convert.ToInt32(Console.ReadLine());
+
+            //if (num2 == 0)
+            //{
+            //    Console.WriteLine("No / By Zero");
+            //    num2 = 1;
+            //}
+
+            //int r = num1 / num2;
+
+            //Console.WriteLine("=" + " " + r);
+
+            //======================================================
+
+            //Console.WriteLine("Enter The Grade");
+            //int g = int.Parse(Console.ReadLine());
+
+            //if (g < 50 )
+            //{
+            //    Console.WriteLine("Fail");
+            //}
+
+            //if (g >= 50)
+            //{
+            //    Console.WriteLine("pass");
+            //}
+
+            //======================================================
+
+            //Console.WriteLine("Enter word1");
+            //string word1 = Console.ReadLine();
+            //Console.WriteLine("Enter Word2");
+            //string word2 = Console.ReadLine();
+
+            //if (word1 == word2)
+            //{
+            //    Console.WriteLine("word1 = word2");
+            //}
+
+            //if (word1 != word2)
+            //{
+            //    Console.WriteLine("word1 <> word2");
+            //}
+
+            //====================================================
+
+            //Console.WriteLine("Enter number1");
+            //int num1 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter number2");
+            //int num2 = int.Parse(Console.ReadLine());
+
+            //if (num1 > num2)
+            //{
+            //    Console.WriteLine("Number1 > number2");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("number1 < number2 or equal");
+            //}
+
+            //===================================================
+
+            //Console.WriteLine("Enter the grade");
+            //int g = int.Parse (Console.ReadLine());
+
+            //if (g >= 50)
+            //{
+            //    Console.WriteLine("pass");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Fail");
+            //}
+
 
 
 
