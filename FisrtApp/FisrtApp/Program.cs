@@ -563,6 +563,123 @@ namespace FisrtApp
             //    Console.WriteLine("Fail");
             //}
 
+            //===============================================
+
+            //Console.WriteLine("Enter number1");
+            //int num1 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter number2");
+            //int num2 = int.Parse(Console.ReadLine());
+
+            //if (num1 > num2)
+            //{
+            //    Console.WriteLine("number1 > number2");
+            //}
+
+            //else if (num2 > num1)
+            //{
+            //    Console.WriteLine("number2 > number1");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("number1 = number2");
+            //}
+
+            //===================================================
+
+            //Console.WriteLine("Enter grade");
+            //int g = int.Parse(Console.ReadLine());
+
+            //if (g < 0)
+            //{
+            //    Console.WriteLine("No grade");
+            //}
+            //else if (g < 50)
+            //{
+            //    Console.WriteLine("F");
+            //}
+            //else if (g < 60)
+            //{
+            //    Console.WriteLine("E");
+            //}
+            //else if (g < 70)
+            //{
+            //    Console.WriteLine("D");
+            //}
+            //else if (g < 80)
+            //{
+            //    Console.WriteLine("C");
+            //}
+            //else if (g < 90)
+            //{
+            //    Console.WriteLine("B");
+            //}
+            //else if (g <= 10)
+            //{
+            //    Console.WriteLine("A");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("No grade!");
+            //}
+
+            //=====================================================
+
+            //int num1, num2;
+            //Console.Write("Enter number1: ");
+            //num1 = int.Parse(Console.ReadLine());
+            //Console.Write("Enter number2: ");
+            //num2 = int.Parse(Console.ReadLine());
+
+            //int greater;
+
+            ////if (num1 > num2)
+            ////{
+            ////    greater = num1;
+            ////}
+            ////else
+            ////{
+            ////    greater = num2;
+            ////}
+
+            ////Console.WriteLine(greater);
+
+
+            //greater = (num1 > num2) ? num1 : num2;
+
+            //Console.WriteLine(greater);
+
+            //============================================
+
+            //Console.WriteLine("Enter The person name");
+            //string strname = Console.ReadLine();
+
+            ////if (strname == "")
+            ////{
+            ////    strname = "person";
+            ////}
+
+
+            //strname = (strname == "") ? "person" : strname;
+
+            //Console.WriteLine(strname);
+
+
+            Console.WriteLine("Enter grade");
+            int g = int.Parse(Console.ReadLine());
+
+            string strgrade = (g > 50) ? "pass" : "Fail";
+            Console.WriteLine(strgrade);
+
+            
+
+
+
+
+
+
+
+
+
 
 
 
