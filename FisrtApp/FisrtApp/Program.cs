@@ -663,12 +663,13 @@ namespace FisrtApp
 
             //Console.WriteLine(strname);
 
+            //================================================
 
-            Console.WriteLine("Enter grade");
-            int g = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter grade");
+            //int g = int.Parse(Console.ReadLine());
 
-            string strgrade = (g > 50) ? "pass" : "Fail";
-            Console.WriteLine(strgrade);
+            //string strgrade = (g >= 50) ? "pass" : "Fail";
+            //Console.WriteLine(strgrade);
 
             
 
