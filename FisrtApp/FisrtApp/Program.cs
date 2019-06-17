@@ -671,12 +671,202 @@ namespace FisrtApp
             //string strgrade = (g >= 50) ? "pass" : "Fail";
             //Console.WriteLine(strgrade);
 
-            
+            //================================================
+
+            //int num = 3;
+            //switch(num)
+            //{
+            //    case 1:
+            //        Console.WriteLine(1);
+            //        Console.WriteLine("one");
+            //        break;
+            //    case 2:
+            //        Console.WriteLine(2);
+            //        break;
+            //    case 3:
+            //        Console.WriteLine("Three");
+            //        break;
+            //    default:
+            //        Console.WriteLine("Other");
+            //            break;
+
+
+            //}
+
+            //=====================================================
+
+            //char c = '';
+            //switch (c)
+            //{
+            //    case 'A':
+            //        Console.WriteLine("A");
+            //        break;
+            //    case 'B':
+            //        Console.WriteLine("B");
+            //        break;
+            //    case 'F':
+            //        Console.WriteLine("F");
+            //        break;
+
+            //}
+
+            //========================================================
+
+            //int num = 2;
+            //switch (num*2)
+            //{
+            //    case 2:
+            //        Console.WriteLine(num + " * 2 = " + (num*2));
+            //        break;
+            //    case 4:
+            //        Console.WriteLine(num + " * 2 = " + (num*2));
+            //        break;
+            //    case 6:
+            //        Console.WriteLine(num + " * 2 = "+ (num*2));
+            //        break;
+
+            //}
+
+            //=======================================================
+
+            //Console.Write("Enter Thenumber: ");
+            //int num = int.Parse(Console.ReadLine());
+
+            //switch (num)
+            //{
+            //    case 0:
+            //        Console.WriteLine("Zero");
+            //        break;
+            //    case 1:
+            //        Console.WriteLine("One");
+            //        break;
+            //    case 2:
+            //        Console.WriteLine("Tow");
+            //        break;
+            //    case 3:
+            //        Console.WriteLine("Three");
+            //        break;
+            //    case 4:
+            //        Console.WriteLine("Four");
+            //        break;
+            //    case 5:
+            //        Console.WriteLine("Five");
+            //        break;
+            //    case 6:
+            //        Console.WriteLine("Six");
+            //        break;
+            //    case 7:
+            //        Console.WriteLine("Seven");
+            //        break;
+            //    case 8:
+            //        Console.WriteLine("eight");
+            //        break;
+            //    case 9:
+            //        Console.WriteLine("nine");
+            //        break;
+            //    case 10:
+            //        Console.WriteLine("Ten");
+            //        break;
+            //    default:
+            //        Console.WriteLine("Other number");
+            //        break;
 
 
 
 
 
+
+
+            //}
+
+
+            //======================================================
+
+            //Console.WriteLine("Enter Name of Number:");
+            //string strname = Console.ReadLine();
+            //switch(strname)
+            //{
+            //    case "Zero":
+            //        Console.WriteLine("0");
+            //        break;
+            //    case "One":
+            //        Console.WriteLine("1");
+            //        break;
+            //    case "Tow":
+            //        Console.WriteLine("2");
+            //        break;
+            //    case "Three":
+            //        Console.WriteLine("3");
+            //        break;
+            //    case "Four":
+            //        Console.WriteLine("4");
+            //        break;
+            //    case "Five":
+            //        Console.WriteLine("5");
+            //        break;
+
+
+
+            //}
+
+            //==================================================
+
+            //Console.WriteLine("Enter The product number:");
+            //int pronum = int.Parse(Console.ReadLine());
+
+            //switch(pronum)
+            //{
+            //    case 4:
+            //    case 1:
+            //        Console.WriteLine("price is 50");
+            //        break;
+            //    case 2:
+            //        Console.WriteLine("price is 55");
+            //        break;
+            //    case 3:
+            //        Console.WriteLine("price is 40");
+            //        break;
+            //    case 5:
+            //    case 6:
+            //        Console.WriteLine("price is 30");
+            //        break;
+            //    default:
+            //        Console.WriteLine("product" + " " + pronum + " " + "Notfound");
+            //        break;
+            //}
+
+            //========================================================
+
+            //Console.WriteLine("Enter The product: ");
+            //string strpro = Console.ReadLine();
+
+            //switch(strpro)
+            //{
+            //    case "1":
+            //    case "nokia":
+            //        Console.WriteLine("price is 900");
+            //        break;
+            //    case "2":
+            //    case "lenovo":
+            //        Console.WriteLine("price is 1200");
+            //        break;
+            //    case "3":
+            //    case "lg":
+            //        Console.WriteLine("price is 1500");
+            //        break;
+            //    case "4":
+            //    case "iphone":
+            //        Console.WriteLine("price is 2000");
+            //        break;
+            //    case "5":
+            //    case "htc":
+            //        Console.WriteLine("price is 2500");
+            //        break;
+            //    default:
+            //        Console.WriteLine("product" + " " + strpro + " " + "Not found");
+            //        break;
+
+            //}
 
 
 
