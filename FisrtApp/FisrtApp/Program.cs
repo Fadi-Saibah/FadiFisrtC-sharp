@@ -868,13 +868,153 @@ namespace FisrtApp
 
             //}
 
+            //=============================================================================
+
+            //Console.WriteLine(1);
+            //Console.WriteLine(2);
+            //Console.WriteLine(3);
+            //Console.WriteLine(4);
+            //Console.WriteLine(5);
+            //Console.WriteLine(6);
+            //Console.WriteLine(7);
+            //Console.WriteLine(8);
+            //Console.WriteLine(9);
+            //Console.WriteLine(10);
+
+            //=============================================================================
+
+            //for (int x = 1; x <= 10; x++)
+            //{
+            //    Console.WriteLine(x);
+            //}
+
+            //Console.WriteLine("===============");
+            //for(int x =10; x>=1; x--)
+            //{
+            //    Console.WriteLine(x);
+            //}
+
+            //======================================================
+
+            // for (char c = 'A'; c <= 'Z'; c++)
+            //{
+            //    Console.WriteLine(c);
+            //}
+
+            //=======================================================
+
+            //for (int x = 1 , y =10 , z = 100, c=1000, f= 10000; x<= 10 && y <=50; x++ , y+=10 , z+=100 , c+=1000 , f+=10000 )
+            //{
+            //    Console.WriteLine(x + " : " + y + " : " + z + " : " + c + " : " + f);
+            //}
+
+            //=======================================================
+
+            //for( int x=1,y=10; x<y; x++,y--)  
+            //{
+            //    Console.WriteLine("x=" + x + ":" + "y=" + y)
+            //}
+
+            //=======================================================
+            //int x = 0;
+            //for (; ;)
+            //{
+            //    Console.WriteLine(x);
+            //    x++;
+            //}
+
+            //=======================================================
+
+            //int i = 1;
+            //for (; ; )
+            //{
+            //    Console.Write(i + ";");
+            //    i++;
+            //    if (i > 10000)
+            //    {
+            //        break;
+            //    }
+            //}
+
+            //========================================================
+
+            //int x = 1;
+            //int y = 10000;
+            //for (; ; )
+            //{
+            //    Console.Write(x - y +":");
+            //    x++;
+            //    y--;
+            //    if (x > 10000)
+            //    {
+            //        break;
+            //    }
+            //}
+
+            //========================================================
+
+            //int baseNum;
+            //Console.Write("Enter The number: ");
+            //baseNum = int.Parse(Console.ReadLine());
+
+            //for (int num = 1; num <=10; num++)
+            //{
+            //    /*
+            //    string str;
+            //    str = baseNum + " x " + num + " = ";
+            //    int r;
+            //    r = baseNum * num;
+            //    Console.WriteLine(str + r);
+            //    */
+            //    Console.WriteLine(baseNum + " * " + num + " = " + baseNum * num);
+
+            //}
+
+            //========================================================================
+
+            //for(int x =1; x<= 5; x++)
+            //{
+            //    Console.WriteLine(x);
+            //    for (int y = 1; y<=3; y++ )
+            //    {
+            //        Console.WriteLine(" " + x + ">>" + y);
+            //    }
+
+            //}
+
+            //=================================================================
+
+            //for (int x = 1; x <= 5; x++)
+            //{
+            //    Console.WriteLine(x);
+            //    for (int y = 1; y <= 3; y++)
+            //    {
+            //        Console.WriteLine(" " + x + ">>" + y);
+            //        for (int z = 1; z<=2; z++)
+            //        {
+            //            Console.WriteLine("   " + x + ">>" + y + ">>" + z);
+            //        }
+            //    }
+
+            //}
+
+            //==========================================================
 
 
 
 
 
 
-            Console.Read();
+
+
+
+
+
+
+
+
+
+
         }
     }
 }
