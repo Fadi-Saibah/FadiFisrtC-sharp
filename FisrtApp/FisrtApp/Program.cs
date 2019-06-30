@@ -1080,6 +1080,141 @@ namespace FisrtApp
 
             //Console.WriteLine(dt);
 
+            //==========================================================================
+
+            //string strdt;
+            ////strdt =    DateTime.Now.ToString("d");
+            //// strdt = DateTime.Now.ToString("D");
+            //// strdt = DateTime.Now.ToString("t");
+            ////strdt = DateTime.Now.ToString("T");
+            //// strdt = DateTime.Now.ToString("dd");
+            ////strdt = DateTime.Now.ToString("MM");
+            ////strdt = DateTime.Now.ToString("yyyy");
+            ////strdt = DateTime.Now.ToString("yy");
+            //// strdt = DateTime.Now.ToString("M");
+            //// strdt = DateTime.Now.ToString("y");
+            ////strdt = DateTime.Now.ToString("dd/MM/yyyy");
+            ////strdt = DateTime.Now.ToString("dd/MM/yy");
+            //// strdt = DateTime.Now.ToString("dd-MM-yyyy");
+            ////strdt = DateTime.Now.ToString("d/M/yyyy");
+            //// strdt = DateTime.Now.ToString("hh");
+            //// strdt = DateTime.Now.ToString("mm");
+            ////strdt = DateTime.Now.ToString("ss");
+            ////strdt = DateTime.Now.ToString("tt");
+            ////strdt = DateTime.Now.ToString("hh:mm:ss tt");
+            ////strdt = DateTime.Now.ToString("dd/MM/yyyy  -  hh:mm:ss tt");
+
+            //Console.WriteLine(strdt);
+
+            //Console.WriteLine(   DateTime.Now.AddYears(3).AddMonths(4).AddDays(3).AddHours(1).AddMinutes(32).ToString("dd/MM/yyyy  -  hh:mm:ss tt  ") );
+
+            //DateTime dt;
+            //dt = Convert.ToDateTime("01/01/2000");
+            //for (int x = 1; x <= 12; x++)
+            //{
+
+            //    //Console.WriteLine(dt.ToString("MMMM"));
+            //    Console.WriteLine(dt.ToString("MMM"));
+            //    dt = dt.AddMonths(1);
+            //}
+
+            //DateTime dt = Convert.ToDateTime("6/30/2019");
+            //for (int x = 1; x <= 7; x++) 
+            //{
+            //    Console.WriteLine(dt.ToString("dddd"));
+            //    dt = dt.AddDays(1);
+            //}
+
+            //DateTime dt = Convert.ToDateTime("01/01/2010");
+            //for (int x = 1; x<=12; x++)
+            //{
+            //    Console.WriteLine(dt.ToString("MMM"));
+            //    dt = dt.AddMonths(1);
+            //}
+
+            //while (true)
+            //{
+            //    Console.WriteLine(101);
+            //    Console.WriteLine(102);
+            //    Console.WriteLine(103);
+            //}
+
+
+            //int x = 1;
+            //while (x <=7)
+            //{
+            //    Console.WriteLine(x);
+            //    x++;
+            //}
+
+            //int x = 10;
+            //while (x >= 1)
+            //{
+            //    Console.WriteLine(x);
+            //    x--;
+            //}
+
+            //int x = 1;
+            //while (true)
+            //{
+            //    Console.WriteLine(x);
+            //    x++;
+            //    if (x > 10) break;
+            //}
+
+            //int y = 10;
+            //while (true)
+            //{
+            //    Console.WriteLine(y );
+            //    y--;
+
+            //    if (y < 1) break;
+
+            //}
+
+            //do
+            //{
+            //    Console.Write(1212);
+            //} while (true);
+
+            //int x = 1;
+            //do
+            //{
+            //    Console.WriteLine(x);
+            //    x++;
+            //} while (x <= 10);
+
+            //int x = 10;
+            //do
+            //{
+            //    Console.WriteLine(x);
+            //    x--;
+            //} while (x >= 1);
+
+            //for (int x=1;false; x++)
+            //{
+            //    Console.WriteLine(x);
+            //}
+
+
+            //int x = 1;
+            //while(false)
+            //{
+            //    Console.WriteLine(x);
+            //    x++;
+            //}
+
+
+            //int x = 1;
+            //do
+            //{
+            //    Console.WriteLine(x);
+            //    x++;
+
+            //} while (false);
+
+
+
 
 
 
