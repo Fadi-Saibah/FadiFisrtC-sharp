@@ -1113,7 +1113,7 @@ namespace FisrtApp
             //for (int x = 1; x <= 12; x++)
             //{
 
-            //    //Console.WriteLine(dt.ToString("MMMM"));
+            //    Console.WriteLine(dt.ToString("MMMM"));
             //    Console.WriteLine(dt.ToString("MMM"));
             //    dt = dt.AddMonths(1);
             //}
@@ -1213,11 +1213,100 @@ namespace FisrtApp
 
             //} while (false);
 
+            //string strYN = " ";
+            //do
+            //{
+            //    int num1;
+            //    int num2;
+            //    int r;
+            //    Console.Write("Enter number 1 : ");
+            //    num1 = int.Parse(Console.ReadLine());
+            //    Console.Write("Enter number 2 : ");
+            //    num2 = int.Parse(Console.ReadLine());
+
+            //    r = num1 + num2;
+            //    Console.WriteLine("===========");
+            //    Console.WriteLine(r);
+            //    Console.WriteLine("===========");
+            //    Console.Write("do you want try agine? (y/n) : ");
+            //    strYN = Console.ReadLine();
+            //} while (strYN == "y" || strYN == "Y");
+
+
+            //string[] strnames = new string[5];
+            //strnames[0] = "Fadi";
+            //strnames[1] = "Mohammed";
+            //strnames[2] = "omer";
+            //strnames[3] = "Ali";
+            //strnames[4] = "Ahmed";
+            //Console.WriteLine(strnames[0]);
+            //Console.WriteLine(strnames[1]);
+            //Console.WriteLine(strnames[2]);
+            //Console.WriteLine(strnames[3]);
+            //Console.WriteLine(strnames[4]);
+
+
+            //int[] nums = new int[3];
+            //nums[0] = 150;
+            //nums[1] = 200;
+            //nums[2] = nums[0] * nums[1];
+
+            //Console.WriteLine(nums[0]);
+            //Console.WriteLine(nums[1]);
+            //Console.WriteLine(nums[2]);
+
+
+            //object[] data = new object[7];
+            //data[0] = "Fadi";
+            //data[1] = 3000;
+            //data[2] = true;
+            //data[3] = 'F';
+            //data[4] = 2.6;
+            //data[5] = 13131;
+            //data[6] = false;
 
 
 
+            //Console.WriteLine(data[0]);
+            //Console.WriteLine(data[1]);
+            //Console.WriteLine(data[2]);
+            //Console.WriteLine(data[3]);
+            //Console.WriteLine(data[4]);
+            //Console.WriteLine(data[5]);
+            //Console.WriteLine(data[6]);
+
+            //Console.Write("Enter the count:");
+            //int c = int.Parse(Console.ReadLine());
+
+            //string[] str = new string[c];
+            //str[0] = "Fadi";
+            //str[ str.Length - 1 ] = "Ahmed";
 
 
+            //int arraycount = str.Length;
+
+            //Console.WriteLine(arraycount);
+            //Console.WriteLine(str[str.Length - 1]);
+
+            //char[] cname = new char[5];
+            //cname[0] = 'F';
+            //cname[1] = 'a';
+            //cname[2] = 'd';
+            //cname[3] = 'i';
+
+            ////Console.WriteLine(cname[0].ToString() + cname[1] + cname[2] + cname[3] );
+
+            //string strname = new string(cname);
+
+            //Console.WriteLine(strname);
+
+
+
+            //string strname = "Fadi";
+            //char[] cname;
+            //cname = strname.ToCharArray();
+
+            //Console.WriteLine(cname);
 
 
 
