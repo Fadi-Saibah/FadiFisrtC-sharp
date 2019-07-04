@@ -1309,6 +1309,45 @@ namespace FisrtApp
             //Console.WriteLine(cname);
 
 
+            //string[] strnames = new string[5];
+
+            //strnames[0] = "Fadi";
+            //strnames[1] = "Ali";
+            //strnames[2] = "john";
+            //strnames[3] = "mohammed";
+            //strnames[4] = "Ahmed";
+
+
+            ////Console.WriteLine(strnames[0]);
+            ////Console.WriteLine(strnames[1]);
+            ////Console.WriteLine(strnames[2]);
+            ////Console.WriteLine(strnames[3]);
+            ////Console.WriteLine(strnames[4]);
+
+            //for (int x = 0; x< strnames.Length; x++)
+            //{
+            //    Console.WriteLine(strnames[x]);
+            //}
+
+            //Console.Write("Enter count of employees: ");
+            //int empcount = int.Parse(Console.ReadLine());
+            //string[] strEmps = new string[empcount];
+
+            //for (int x=0; x< empcount; x++)
+            //{
+            //    Console.WriteLine("Enter employee Number " + (x + 1));
+            //    strEmps[x] = Console.ReadLine();
+            //}
+            
+
+            //for(int x = 0; x< empcount; x++)
+            //{
+            //    Console.WriteLine("================");
+            //    Console.WriteLine(" " + strEmps[x]);
+            //}
+
+
+
 
 
 
