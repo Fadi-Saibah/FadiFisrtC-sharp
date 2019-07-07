@@ -1338,13 +1338,91 @@ namespace FisrtApp
             //    Console.WriteLine("Enter employee Number " + (x + 1));
             //    strEmps[x] = Console.ReadLine();
             //}
-            
 
-            //for(int x = 0; x< empcount; x++)
+
+            //for (int x = 0; x < empcount; x++)
             //{
             //    Console.WriteLine("================");
             //    Console.WriteLine(" " + strEmps[x]);
             //}
+
+
+
+            //string[] strnames = new string[3];
+            //string strnames = "";
+
+
+            //int[] ints = new int [3];
+            //int i = 0;
+
+
+            //string[] strnames = { "Fadi", "Ali", "john" , };
+
+            ////for (int x = 0; x < strnames.Length; x++)
+            ////{
+            ////    Console.WriteLine(strnames[x]);
+            ////}
+
+            //foreach(string strname in strnames)
+            //{
+            //    Console.WriteLine(strname);
+            //}
+
+
+            //string strname = "Fadi";
+            ////char[] cname = strname.ToCharArray();
+
+            ////foreach(char c in cname)
+            ////{
+            ////    Console.WriteLine(c);
+            ////}
+
+            //foreach(char c in strname)
+            //{
+            //    Console.WriteLine(c);
+            //}
+
+
+
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
