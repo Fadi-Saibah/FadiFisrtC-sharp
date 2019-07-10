@@ -1460,21 +1460,104 @@ namespace FisrtApp
 
 
 
+            //string strname = "mohammed";
+            //string strname2 = "";
+            //char[] cname = strname.ToCharArray();
+            //for (int x = 0; x < 8; x++)
+            //{
+            //    if (x == 4 || x == 6 || x == 1)
+            //    {
+            //        strname2 += cname[x].ToString().ToUpper();
+            //    }
+            //    else
+            //    {
+            //        strname2 += cname[x];
+            //    }
+
+            //}
+            //Console.WriteLine(strname2);
 
 
 
+            //string strname = "ali";
+            //string strname2 = "";
+            //char[] cname = strname.ToCharArray();
+            //for (int x=0; x<3; x++)
+            //{
+            //    if (x==2)
+            //    {
+            //        strname2 += cname[x].ToString().ToUpper();
+            //    }
+            //    else
+            //    {
+            //        strname2 += cname[x];
+            //    }
+            //}
+
+            //Console.WriteLine(strname2);
 
 
+            //string strname = "omer";
+            //string strname2 = "";
+            //char[] cname = strname.ToCharArray();
+            //for(int x=0; x<4; x++)
+            //{
+            //    if (x==1 || x==3)
+            //    {
+            //        strname2 += cname[x].ToString().ToUpper();
+            //    }
+            //    else
+            //    {
+            //        strname2 += cname[x];
+            //    }
+            //}
+            //Console.WriteLine(strname2);
 
 
+            //Random rnd = new Random { };
+            //int num;
+            //num = rnd.Next(1, 10);
+            //Console.WriteLine(num);
 
 
+            //Console.Write("Enter your name And max digits is 10: ");
+            //string strname = Console.ReadLine();
+
+            //if(strname.Length>10)
+            //{
+            //    Console.WriteLine("Invalid name");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Hello " + strname);
+            //}
 
 
+            //Console.Write("Enter you name and max digits is 7: ");
+            //string strname = Console.ReadLine();
+
+            //if (strname.Length > 7)
+            //{
+            //    Console.WriteLine("Invalid name");
+
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Hello " + strname);
+            //}
+
+            //string strname = "Mohammed";
+            //string strjob = "programmer";
+            //string strphone = "0208420480";
+
+            ////string strdata = "name: " + strname
+            ////    + "\nojob: " + strjob
+            ////    + "\nphone: " + strphone;
+
+            //string strdata = string.Format("name: {0}\njob: {1}\nphone: {2}", strname, strjob, strphone);
 
 
-
-
+            //Console.WriteLine(strdata);
 
 
 
