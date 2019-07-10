@@ -1383,21 +1383,80 @@ namespace FisrtApp
             //}
 
 
+            //string strname;
+            //strname = "Fadi";
+            //Console.WriteLine(strname);
 
-       
-
-
-
-
-
-
-
-
-
+            //string[] strnames = { "Fadi", "omer", "Ali" };
+            //for (int x =0; x<3; x++)
+            //{
+            //    Console.WriteLine(strnames[x]);
+            //}
 
 
 
 
+            //Random rnd = new Random();
+
+            //int rnum;
+            //rnum = rnd.Next(1,21);
+            //rnum = rnd.Next(1,13);
+            //DateTime dt = Convert.ToDateTime(rnum + "/" + rnum + "/2004");
+
+            //Console.WriteLine(dt.ToString("MMMM"));
+
+            //rnum = rnd.Next(1, 8);
+
+
+            //Console.WriteLine(rnum);
+
+            //Random rnd = new Random();
+
+            //int num;
+            //num = rnd.Next(1,100);
+
+            //Console.WriteLine(num);
+
+            //Random rnd = new Random();
+            //int num;
+            //num = rnd.Next(50, 56);
+            //Console.WriteLine(num);
+
+            //Random rnd = new Random();
+            //int num;
+            //num = rnd.Next(10, 20);
+            //Console.WriteLine(num);
+
+            //string str = "abcdefgh";
+            //string str2 = str.ToUpper();
+            //Console.WriteLine(str2);
+
+            //string str = "ABCDEFGH";
+            //string str2 = str.ToLower();
+            //Console.WriteLine(str2);
+
+            //string str = "ABCD";
+
+            //Console.WriteLine(str.ToLower());
+
+            //string strname = "fadi";
+
+
+            //string strname2 = "";
+            //char[] cname = strname.ToCharArray();
+            //for (int x = 0; x < 4; x++)
+            //{
+            //    if (x==2 || x==3)
+            //    {
+            //        strname2 += cname[x].ToString().ToUpper();
+
+            //    }
+            //    else
+            //    {
+            //        strname2 += cname[x];
+            //    }
+            //}
+            //Console.WriteLine(strname2);
 
 
 
