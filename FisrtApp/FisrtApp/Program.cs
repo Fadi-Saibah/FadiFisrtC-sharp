@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Text.RegularExpressions;
+
 
 namespace FisrtApp
 {
@@ -1707,7 +1709,7 @@ namespace FisrtApp
             //string str = "Fadi";
             //string strR = "";
 
-            //for (int x =str.Length-1; x >=0; x--)
+            //for (int x = str.Length - 1; x >= 0; x--)
             //{
             //    strR += str[x];
             //}
@@ -1730,7 +1732,50 @@ namespace FisrtApp
             //    Console.WriteLine("=======================");
             //}
 
-        
+
+
+
+
+
+
+
+            //Regex reg = new Regex("^\\d{3}-\\d{7,10}$");
+            //Console.Write("Enter the number ");
+            //string text = Console.ReadLine();
+
+            //if (reg.IsMatch(text) )
+            //{
+            //    Console.WriteLine("Correct Number");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Invalid Number!! ");
+            //}
+
+
+
+            //Regex reg = new Regex("^[a-z]+$");
+            //Regex reg = new Regex("^[A-Z][a-z]+$");
+            //Regex reg = new Regex("^[A-Z][a-z]+\\s[A-Z][a-z]+$");
+            //Regex reg = new Regex("^[A-Z][a-z]+(\\s[A-Z][a-z]+)*$");
+          
+            Console.Write("Enter the text");
+            string text = Console.ReadLine();
+
+
+            Console.WriteLine(reg.IsMatch(text));
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
