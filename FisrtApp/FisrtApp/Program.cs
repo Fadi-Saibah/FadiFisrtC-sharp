@@ -1562,13 +1562,97 @@ namespace FisrtApp
 
 
 
+            //int invoicenum = 10;
+            //string strinvoice = string.Format("{0:000000}", invoicenum);
+
+            //Console.WriteLine(strinvoice);
+
+
+
+
+            //int[] invoicenumbers = { 1, 50, 155, 6000, 123, 900, 1000, 999 };
+            //foreach(int i in invoicenumbers)
+            //{
+            //    Console.WriteLine(string.Format("{0:000000}", i));
+            //}
+
+
+            //int price = 150;
+
+            //Console.WriteLine(string.Format("{0:c4}", price));
+
+
+            //int salary = 3000;
+            //string str = string.Format("{0:f5}", salary);
+            //Console.WriteLine(str);
+
+
+
+            //DateTime dt = Convert.ToDateTime("01/01/2010 03:15 pm");
+            //string mydate = string.Format("{0:dd/MM/yyyy}",dt);
+
+            //Console.WriteLine(mydate);
+
+
+
+            //int num = 1022;
+
+            //Console.WriteLine(string.Format("{0:X}", num));
+
+
+
+
+            //string strname = "Fadi";
+
+            //Console.WriteLine("Name: {0}", strname);
+
+
+            //int num = 2000;
+            //string str = string.Format("{0:x}", num);
+
+            //Console.WriteLine(str);
+
+
+            //int num = 30;
+
+            //Console.WriteLine(string.Format("{0:f8}",num));
+
+
+            //int num = 123445;
+
+            //Console.WriteLine(string.Format("{0:x}",num));
 
 
 
 
 
 
+            //string strtext = "Hello World!";
 
+            ////string strsubtext = strtext.Substring(5);
+            //string strsubtext = strtext.Substring(0,7);
+            //Console.WriteLine(strsubtext);
+
+
+
+
+
+
+            Console.Write("Enter the file name: ");
+            string strfilename = Console.ReadLine();
+
+            string strfilename2 = "";
+
+            if(strfilename.Length > 4)
+            {
+                strfilename2 = strfilename.Substring(0, strfilename.Length-4);
+            }
+            else
+            {
+                Console.WriteLine(strfilename);
+            }
+
+            
 
 
         }
