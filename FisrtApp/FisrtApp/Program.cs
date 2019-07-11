@@ -1638,21 +1638,101 @@ namespace FisrtApp
 
 
 
-            Console.Write("Enter the file name: ");
-            string strfilename = Console.ReadLine();
+            //Console.Write("Enter the file name: ");
+            //string strfilename = Console.ReadLine();
 
-            string strfilename2 = "";
+            //string strfilename2 = "";
 
-            if(strfilename.Length > 4)
-            {
-                strfilename2 = strfilename.Substring(0, strfilename.Length-4);
-            }
-            else
-            {
-                Console.WriteLine(strfilename);
-            }
+            //if(strfilename.Length > 4)
+            //{
+            //    strfilename2 = strfilename.Substring(0, strfilename.Length-4);
+            //}                                                                     
+            //else
+            //{
+            //    Console.WriteLine(strfilename);
+            //}
 
-            
+
+
+
+            //string strtext;
+            //strtext = "Welcome to egy";
+
+            //string[] alltext = strtext.Split(' ');
+
+            //foreach (string s in alltext)
+            //{
+            //    Console.WriteLine(s);
+            //}
+
+
+
+
+
+            //string strt;
+            //strt = "Welcome Fadi";
+
+            //string[] alltext = strt.Split('e');
+
+            //foreach (string s in alltext)
+            //{
+            //    Console.WriteLine(s);
+            //}
+
+
+
+
+
+
+
+            //Console.Write("Enter the any text: ");
+            //string str1 = Console.ReadLine();
+            //string str2 = str1.Replace(";", "").Replace("  ", "&");
+
+            //Console.WriteLine(str2);
+
+
+
+            //string str = "Welcome";
+            //str = "emocleW";
+            //string strR = "";
+
+            //for(int x=str.Length-1; x>=0; x-- )
+            //{
+            //    strR += str[x];
+            //}
+            //Console.WriteLine(strR);
+
+
+            //string str = "Fadi";
+            //string strR = "";
+
+            //for (int x =str.Length-1; x >=0; x--)
+            //{
+            //    strR += str[x];
+            //}
+
+            //Console.WriteLine(strR);
+
+
+
+            //Console.Write("Enter your name: ");
+            //string strname = Console.ReadLine();
+
+            //if (strname.Trim() == "")
+            //{
+            //    Console.WriteLine("Name is empty!");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("=======================");
+            //    Console.WriteLine("Hello " + strname);
+            //    Console.WriteLine("=======================");
+            //}
+
+        
+
+
 
 
         }
