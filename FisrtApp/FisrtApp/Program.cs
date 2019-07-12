@@ -4,12 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Text.RegularExpressions;
+using System.IO;
+using System.Text;
 
 
 namespace FisrtApp
 {
     class Program
     {
+        static void myMethod()
+        {
+            Console.WriteLine("Welcome to my Method");
+        }
         static void Main(string[] args)
         {
 
@@ -1758,22 +1764,145 @@ namespace FisrtApp
             //Regex reg = new Regex("^[A-Z][a-z]+$");
             //Regex reg = new Regex("^[A-Z][a-z]+\\s[A-Z][a-z]+$");
             //Regex reg = new Regex("^[A-Z][a-z]+(\\s[A-Z][a-z]+)*$");
-          
-            Console.Write("Enter the text");
-            string text = Console.ReadLine();
+
+            //Console.Write("Enter the text");
+            //string text = Console.ReadLine();
 
 
-            Console.WriteLine(reg.IsMatch(text));
-
-
-
+            //Console.WriteLine(reg.IsMatch(text));
 
 
 
+            //Console.Write("Enter your Email: ");
+            //string strEmail = Console.ReadLine();
+
+            //Regex reg = new Regex(@"^\w+([-_.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$");
+
+            //if(reg.IsMatch(strEmail))
+            //{
+            //    Console.WriteLine("correct Email...");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Invalid Email !!");
+            //}
 
 
 
 
+
+
+            //myMethod();
+
+            //My_class.myMethod();
+
+
+
+            //int r;
+            ////r = 4 + 3 * 5;
+            //r = (4 + 3) * 5;
+
+            //Console.WriteLine(r);
+
+            //int num = +5;
+            //num = -5;
+            //Console.WriteLine(num);
+
+
+            //Directory.CreateDirectory("D:\\My\\Files");
+            //Directory.CreateDirectory("MyFolder");
+
+            //Directory.Delete("MyFiles");
+
+
+
+
+            //StreamWriter sw = new StreamWriter("MyFile.txt");
+            //StreamWriter sw = new StreamWriter("MyFile.txt",true);
+
+            //StreamWriter sw = new StreamWriter("MyFile.txt", false, Encoding.Unicode);
+
+            //sw.WriteLine("Hello");
+            //sw.WriteLine("Welocme");
+            //sw.WriteLine("مرحبا ");
+            //sw.Close();
+
+
+
+
+
+
+            //StreamReader sr = new StreamReader("MyFile.txt");
+
+            //string stralllines = sr.ReadToEnd();
+
+            //Console.WriteLine(stralllines);
+
+
+
+
+            //string line;
+
+            //do
+            //{
+            //    line = sr.ReadLine();
+            //    Console.WriteLine(line);
+            //} while (line != null);
+
+            //string str1 = sr.ReadLine();
+            //string str2 = sr.ReadLine();
+            //string str3 = sr.ReadLine();
+            //string str4 = sr.ReadLine();
+            //string str5 = sr.ReadLine();
+            //string str6 = sr.ReadLine();
+
+
+            //Console.WriteLine(str1);
+            //Console.WriteLine(str2);
+            //Console.WriteLine(str3);
+            //Console.WriteLine(str4);
+            //Console.WriteLine(str5);
+            //Console.WriteLine(str6);
+
+
+
+
+            //try
+            //{
+            //    stat1
+            //    stat2   
+            //        stat3
+            //}
+
+            //catch(Exceptiontype1 ex)
+            //{
+
+            //}
+            //catch(ExceptionType2 ex)
+            //{
+
+            //}
+            //finally
+            //{
+            //    codes
+            //}
+
+
+
+            try
+            {
+                int num1 = 55, num2 = 0, r=0;
+                r = num1 / num2;
+
+                Console.WriteLine(r);
+
+                string[] strnames = new string[2];
+                strnames[2] = "Fadi";
+            }
+            catch(DivideByZeroException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
 
 
 
